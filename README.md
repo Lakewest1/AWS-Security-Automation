@@ -248,7 +248,7 @@ Always obtain proper authorization before running security checks in any AWS env
 
 ## 👤 Author  : Olalekan Musa (a.k.a Sir lakewest)
 
-**Your Name**
+**Musa Olalekan**
 Cloud Security Engineer | AWS | Python | Automation
 
 ---
